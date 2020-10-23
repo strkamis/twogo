@@ -1,0 +1,20 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "cnpj": "06913024000118",
+      "name comercial": "Kamisalinha",
+      "name": "Kamila Bezerra da Silva",
+      "email": "kamilabezesilva@gmail.com",
+      "cpf": "12445678902"
+    },
+    {
+      "id": 2,
+      "cnpj": "06913024000118",
+      "name comercial": "Iguinho",
+      "name": "Igor de Melo Mendes",
+      "email": "admin@gmail.com",
+      "cpf": "12445678902"
+    }
+  ]
+}
