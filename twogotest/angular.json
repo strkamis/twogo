@@ -120,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "twogotest"
+    }
+  },
+  "defaultProject": "twogotest",
+  "cli": {
+    "analytics": false
+  }
 }
